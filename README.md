@@ -46,6 +46,18 @@ Finish time: 12:15
 Actual time needed to complete: 60 min
 ```
 
+```
+Number and name of feature: #3 Deployment
+
+Estimate of time needed to complete: 60 min
+
+Start time: 1:46
+
+Finish time: 
+
+Actual time needed to complete: 60 min
+```
+
 Add this information to your README.
 
 ### Feature #1: Refactor the CSS 
