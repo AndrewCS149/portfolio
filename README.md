@@ -34,6 +34,18 @@ Finish time: 23:07
 Actual time needed to complete: 72 min
 ```
 
+```
+Number and name of feature: #2 Modify the contents
+
+Estimate of time needed to complete: 45 min
+
+Start time: 23:10
+
+Finish time: 0008
+
+Actual time needed to complete: 57 min
+```
+
 Add this information to your README.
 
 ### Feature #1: Refactor the CSS 
